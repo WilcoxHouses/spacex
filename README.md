@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img src="https://github.com/DominoNetwork/space-X/blob/main/space-x0.png" alt="Project Space-X"/>
+    <img src="https://github.com/DominoNetwork/space-X/blob/master/documentation/img/space-x0.png" alt="Project Space-X"/>
   </a>
 </p>
 
